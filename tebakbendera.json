@@ -1,130 +1,130 @@
 [
   {
-    "negara": "Afghanistan",
+    "negara": ["Afghanistan", "Afganistan"],
     "bendera": "https://flagcdn.com/w320/af.png"
   },
   {
-    "negara": "Albania",
+    "negara": ["Albania"],
     "bendera": "https://flagcdn.com/w320/al.png"
   },
   {
-    "negara": "Algeria",
+    "negara": ["Algeria", "Aljazair"],
     "bendera": "https://flagcdn.com/w320/dz.png"
   },
   {
-    "negara": "American Samoa",
+    "negara": ["American Samoa", "Samoa Amerika"],
     "bendera": "https://flagcdn.com/w320/as.png"
   },
   {
-    "negara": "Andorra",
+    "negara": ["Andorra"],
     "bendera": "https://flagcdn.com/w320/ad.png"
   },
   {
-    "negara": "Angola",
+    "negara": ["Angola"],
     "bendera": "https://flagcdn.com/w320/ao.png"
   },
   {
-    "negara": "Anguilla",
+    "negara": ["Anguilla"],
     "bendera": "https://flagcdn.com/w320/ai.png"
   },
   {
-    "negara": "Antarctica",
+    "negara": ["Antarctica", "Antartika"],
     "bendera": "https://flagcdn.com/w320/aq.png"
   },
   {
-    "negara": "Antigua and Barbuda",
+    "negara": ["Antigua and Barbuda", "Antigua dan Barbuda"],
     "bendera": "https://flagcdn.com/w320/ag.png"
   },
   {
-    "negara": "Argentina",
+    "negara": ["Argentina"],
     "bendera": "https://flagcdn.com/w320/ar.png"
   },
   {
-    "negara": "Armenia",
+    "negara": ["Armenia"],
     "bendera": "https://flagcdn.com/w320/am.png"
   },
   {
-    "negara": "Aruba",
+    "negara": ["Aruba"],
     "bendera": "https://flagcdn.com/w320/aw.png"
   },
   {
-    "negara": "Australia",
+    "negara": ["Australia"],
     "bendera": "https://flagcdn.com/w320/au.png"
   },
   {
-    "negara": "Austria",
+    "negara": ["Austria"],
     "bendera": "https://flagcdn.com/w320/at.png"
   },
   {
-    "negara": "Azerbaijan",
+    "negara": ["Azerbaijan"],
     "bendera": "https://flagcdn.com/w320/az.png"
   },
   {
-    "negara": "Bahamas",
+    "negara": ["Bahamas", "Bahama"],
     "bendera": "https://flagcdn.com/w320/bs.png"
   },
   {
-    "negara": "Bahrain",
+    "negara": ["Bahrain"],
     "bendera": "https://flagcdn.com/w320/bh.png"
   },
   {
-    "negara": "Bangladesh",
+    "negara": ["Bangladesh"],
     "bendera": "https://flagcdn.com/w320/bd.png"
   },
   {
-    "negara": "Barbados",
+    "negara": ["Barbados"],
     "bendera": "https://flagcdn.com/w320/bb.png"
   },
   {
-    "negara": "Belarus",
+    "negara": ["Belarus", "Belarusia"],
     "bendera": "https://flagcdn.com/w320/by.png"
   },
   {
-    "negara": "Belgium",
+    "negara": ["Belgium", "Belgia"],
     "bendera": "https://flagcdn.com/w320/be.png"
   },
   {
-    "negara": "Belize",
+    "negara": ["Belize"],
     "bendera": "https://flagcdn.com/w320/bz.png"
   },
   {
-    "negara": "Benin",
+    "negara": ["Benin"],
     "bendera": "https://flagcdn.com/w320/bj.png"
   },
   {
-    "negara": "Bermuda",
+    "negara": ["Bermuda"],
     "bendera": "https://flagcdn.com/w320/bm.png"
   },
   {
-    "negara": "Bhutan",
+    "negara": ["Bhutan"],
     "bendera": "https://flagcdn.com/w320/bt.png"
   },
   {
-    "negara": "Bolivia",
+    "negara": ["Bolivia"],
     "bendera": "https://flagcdn.com/w320/bo.png"
   },
   {
-    "negara": "Bosnia and Herzegovina",
+    "negara": ["Bosnia and Herzegovina", "Bosnia dan Herzegovina"],
     "bendera": "https://flagcdn.com/w320/ba.png"
   },
   {
-    "negara": "Botswana",
+    "negara": ["Botswana"],
     "bendera": "https://flagcdn.com/w320/bw.png"
   },
   {
-    "negara": "Brazil",
+    "negara": ["Brazil"],
     "bendera": "https://flagcdn.com/w320/br.png"
   },
   {
-    "negara": "Brunei",
+    "negara": ["Brunei", "Brunei Darussalam"],
     "bendera": "https://flagcdn.com/w320/bn.png"
   },
   {
-    "negara": "Bulgaria",
+    "negara": ["Bulgaria"],
     "bendera": "https://flagcdn.com/w320/bg.png"
   },
   {
-    "negara": "Burkina Faso",
+    "negara": ["Burkina Faso"],
     "bendera": "https://flagcdn.com/w320/bf.png"
   },
   {
